@@ -70,16 +70,16 @@ a {
 }
 
 #detail, #video,
-#speakers, 
+#ourteam, 
 #program,
-#sponsors, 
+#ourteam, 
 #contact, footer {
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
 
 #detail,
-#speakers, #sponsors,
+#ourteam, #ourteam,
 footer {
   text-align: center;
 }
@@ -318,31 +318,31 @@ footer {
 }
 
 
-
+
 /*---------------------------------------
    Speakers section              
 -----------------------------------------*/
-#speakers {
+#ourteam {
     background: #f9f9f9;
 }
 
-#speakers h3 {
+#ourteam h3 {
     font-size: 18px;
     margin-bottom: 0px;
 }
 
-#speakers h6 {
+#ourteam h6 {
   color: #666;
   margin-top: 4px;
 }
 
-#speakers img {
+#ourteam img {
   width: 100%;
   max-width: 100%;
   height: auto;
 }
 
-#speakers .col-md-3 {
+#ourteam .col-md-3 {
     display: block;
     width: 100%;
     padding-top: 30px;
@@ -350,7 +350,7 @@ footer {
     margin-bottom: 22px;
 }
 
-#speakers .speakers-wrapper {
+#ourteam .ourteam-wrapper {
     background: #ffffff;
     padding-bottom: 22px;
 }
@@ -543,7 +543,7 @@ footer {
 /*---------------------------------------
    Sponsors section              
 -----------------------------------------*/
-#sponsors img {
+#ourteam img {
   margin-top: 18px;
 }
 
@@ -718,7 +718,7 @@ footer {
     padding-bottom: 32px;
   }
 
-  #sponsors img {
+  #ourteam img {
     padding-top: 22px;
   }
 
